@@ -1,4 +1,4 @@
 age = 19
-date = 42
-my_age = age + date
+add_date = 42
+my_age = age + add_date
 print(my_age, "\n")
